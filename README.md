@@ -1,0 +1,1 @@
+This repository contains solutions of 30 days hackerrank.
